@@ -1,9 +1,9 @@
 
-Passionate about biology and science, having obtained a solid education in genetics and cell biology, I furthered my professional development by transitioning into the field of computer science. Drawing from my laboratory experience, I have evolved into a competent and versatile web developer.
+Passionate about biology and science, having obtained a solid education in genetics and cell biology, I expanded my professional development by switching to the field of computer science. Based on my laboratory experience, I have evolved into a competent and versatile web developer.
 
-My shift to computer science has enabled me to merge my analytical skills and scientific rigor with the creativity and problem-solving inherent in web development. I am motivated by the idea of crafting innovative solutions using a multidisciplinary approach, blending my knowledge in biology with my programming skills.
+My shift to computer science has enabled me to merge my analytical skills and scientific rigor with the creativity and problem-solving inherent in web development. I am motivated by the idea of crafting innovative solutions using a pluridisciplinary approach, blending my knowledge in biology with my programming skills.
 
-I am seeking professional opportunities where I can leverage my passion for science and my technical expertise in web development to contribute to challenging and innovative projects
+I am seeking professional opportunities where I can merge my passion for science and my technical expertise in web development to contribute to challenging and innovative projects
 
 <!--
 **JulieDespre/JulieDespre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
