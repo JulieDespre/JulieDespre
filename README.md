@@ -43,12 +43,10 @@ I am seeking professional opportunities where I can merge my passion for science
 
 
  # My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julieDespre&show_icons=true&theme=radical)](https://github.com/julieDespre/github-readme-stats)
-
-<p align="center">
  
- [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=julieDespre&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=julieDespre&theme=radical&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julieDespre&theme=radical&layout=compact" />
 </p>
 
 ## Contact me:
