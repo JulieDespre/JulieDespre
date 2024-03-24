@@ -31,6 +31,7 @@ I am seeking professional opportunities where I can merge my passion for science
   <img src="https://skillicons.dev/icons?i=idea,phpstorm,vscode" alt="tools" height="60"/>
   <img src="https://devicons.railway.app/i/mysql.svg" alt="MySQL" width="60" height="60"/>
 </p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="tools" height="60"/>
 
  ## Operating Systems:
 <p align="left">
