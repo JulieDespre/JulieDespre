@@ -6,10 +6,22 @@ My shift to computer science has enabled me to merge my analytical skills and sc
 I am seeking professional opportunities where I can merge my passion for science and my technical expertise in web development to contribute to challenging and innovative projects
 
  ## Technologies I learn during BUT3 (mobile and web development) :
+ 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,vue,php,flutter,dart" alt="skills" height="60"/>
+</p>
 
  ## Technologies I learned during my second year in computer science :
 
+ <p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,nodejs,express" alt="skills" height="60"/>
+</p>
+
  ## Technologies I learned during my biologu studies :
+ 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,r,latex" alt="skills" height="60"/>
+</p>
 
  ## Tool I know : 
 
