@@ -5,6 +5,8 @@ My shift to computer science has enabled me to merge my analytical skills and sc
 
 I am seeking professional opportunities where I can merge my passion for science and my technical expertise in web development to contribute to challenging and innovative projects
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julieDespre)](https://github.com/julieDespre/github-readme-stats)
 <!--
 **JulieDespre/JulieDespre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
