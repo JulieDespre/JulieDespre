@@ -26,7 +26,7 @@ I am seeking professional opportunities where I can merge my passion for science
  ## Tool I know : 
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" id="tech-but3" width="60" height="60" title="JavaScript/>
   <img src="https://skillicons.dev/icons?i=github,gitlab,bash" alt="tools" height="60"/>
   <img src="https://skillicons.dev/icons?i=idea,phpstorm,vscode" alt="tools" height="60"/>
   <img src="https://devicons.railway.app/i/mysql.svg" alt="MySQL" width="60" height="60"/>
