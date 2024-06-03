@@ -17,7 +17,7 @@ I am seeking professional opportunities where I can merge my passion for science
   <img src="https://skillicons.dev/icons?i=java,c,nodejs,express" alt="skills" height="60"/>
 </p>
 
- ## Technologies I learned during my biologu studies :
+ ## Technologies I learned during my biology studies :
  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,r,latex" alt="skills" height="60"/>
