@@ -11,13 +11,13 @@ I am seeking professional opportunities where I can merge my passion for science
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,tailwind,vue,php,flutter,dart" alt="skills" height="60"/>
 </p>
 
- ## Technologies I learned during my second year in computer science :
+ ## Technologies I mastered during my second year of undergraduate studies in computer science :
 
  <p align="left">
   <img src="https://skillicons.dev/icons?i=java,c,nodejs,express" alt="skills" height="60"/>
 </p>
 
- ## Technologies I learned during my biology studies :
+ ## Technologies I explored during my master's program in biology and genetics :
  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,r,latex" alt="skills" height="60"/>
