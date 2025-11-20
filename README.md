@@ -46,7 +46,7 @@ I am seeking professional opportunities where I can merge my passion for science
  # My Stats
  
 <p align= "center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=julieDespre&theme=radical&show_icons=true&include_all_commits=true&v=1"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=julieDespre"/>
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julieDespre&theme=radical&layout=compact" />
 </p>
 
